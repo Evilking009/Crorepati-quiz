@@ -7,7 +7,7 @@ Trivia Quiz App created using React JS
 - React JS
 
 # Live Site
-- 
+- https://crorepatimk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/Crorepati-quiz/assets/4027728/c695b3d7-27b3-4859-8d26-77a25b1c1bd4)
