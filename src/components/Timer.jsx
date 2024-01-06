@@ -17,7 +17,7 @@ const Timer = ({ setStop, questionNumber, }) => {
         }, 1000);
 
         return () => clearInterval(interval);
-    }, [setStop, timer]);
+    }, [setStop, timer, endSound]);
 
     useEffect(() => {
         setTimer(30);
